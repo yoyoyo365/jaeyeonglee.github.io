@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Publications"
+permalink: /en/publications/
+author_profile: true
+lang: en
+ko_url: /publications/
+---
+
+{% include base_path %}
+
+{% if site.author.googlescholar %}
+<p>For citation information, see <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
+{% endif %}
+
+{% if site.publications.size > 0 %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+<p>The publication list is being updated.</p>
+{% endif %}

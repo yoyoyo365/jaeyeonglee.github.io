@@ -1,17 +1,33 @@
 ---
 layout: single
-title: "연락처"
+title: "연락처 | Contact"
 permalink: /contact/
 author_profile: true
-lang: ko
-en_url: /en/contact/
 ---
 
-## Contact
+## 연락처 | Contact
 
-**이재영 교수 / SAFE-T Lab**  
-동의대학교 소방방재행정학과
+**이재영 교수 | Prof. Jaeyeong Lee**  
+**SAFE-T (Safety Analysis for Fire & Egress Technology Lab)**
 
-이메일, 연구실 위치, 전화번호 등 공개할 연락처 정보를 이곳에 추가하면 됩니다.
+동의대학교 소방방재행정학과  
+Department of Fire Administration and Disaster Management, Dong-eui University
 
-> 개인정보 보호를 위해 공개가 필요한 연락처만 게시하는 것을 권장합니다.
+---
+
+## 이메일 | Email
+
+lee_jy@deu.ac.kr
+
+---
+
+## 학과 홈페이지 | Department Website
+
+[동의대학교 소방방재행정학과](https://www.deu.ac.kr/fire/index.do)
+
+---
+
+## 연구 및 협력 문의 | Research & Collaboration
+
+연구과제, 공동연구, 학술교류 및 연구실 관련 문의는 이메일로 연락해 주시기 바랍니다.  
+For inquiries regarding research projects, collaboration, academic exchange, or the laboratory, please contact us by email.

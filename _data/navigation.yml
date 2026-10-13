@@ -2,49 +2,17 @@
 # masthead.html selects main_ko or main_en using page.lang.
 
 main:
-  - title: "소개"
+  - title: "소개 About"
     url: /
-  - title: "연구"
+  - title: "연구 Research"
     url: /research/
-  - title: "논문"
+  - title: "논문 Publications"
     url: /publications/
-  - title: "프로그램"
+  - title: "프로그램 Software"
     url: /software/
-  - title: "연구실"
+  - title: "연구실 Lab"
     url: /members/
-  - title: "강의"
+  - title: "강의 Teaching"
     url: /teaching/
-  - title: "연락처"
+  - title: "연락처 Contact"
     url: /contact/
-
-main_ko:
-  - title: "소개"
-    url: /
-  - title: "연구"
-    url: /research/
-  - title: "논문"
-    url: /publications/
-  - title: "프로그램"
-    url: /software/
-  - title: "연구실"
-    url: /members/
-  - title: "강의"
-    url: /teaching/
-  - title: "연락처"
-    url: /contact/
-
-main_en:
-  - title: "About"
-    url: /en/
-  - title: "Research"
-    url: /en/research/
-  - title: "Publications"
-    url: /en/publications/
-  - title: "Software"
-    url: /en/software/
-  - title: "Lab"
-    url: /en/members/
-  - title: "Teaching"
-    url: /en/teaching/
-  - title: "Contact"
-    url: /en/contact/

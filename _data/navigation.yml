@@ -1,5 +1,4 @@
 # SAFE-T Lab bilingual navigation
-# masthead.html selects main_ko or main_en using page.lang.
 
 main:
   - title: "소개 About"
